@@ -2,7 +2,7 @@
  False,
  False,
  True,
- 'D:\\Spera\\Progetti\\ToDoList\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ ['D:\\Spera\\Progetti\\ToDoList\\media\\mark.ico'],
  None,
  False,
  False,
@@ -45,7 +45,7 @@
  [],
  False,
  False,
- 1673217411,
+ 1673219092,
  [('runw.exe',
    'D:\\Spera\\Progetti\\ToDoList\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
    'EXECUTABLE')])

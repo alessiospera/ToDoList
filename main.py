@@ -3,7 +3,8 @@ from functions import add_task, delete_task, mark_done
 
 #Create the main window of the application using tkinder
 root = tk.Tk()
-root.title("To-Do List")
+root.iconbitmap("media\icon.ico")
+root.title("Spera To-Do List")
 root.geometry("500x600")
 
 # Create a text box to enter new "to-do" items
